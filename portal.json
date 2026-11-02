@@ -179,14 +179,16 @@
    "docs": [
     {
      "id": "ES26-088-QS-01",
-     "title": "Distributor BOM - Walls above Basement",
-     "file": "docs/quote/ES26-088-QS-01 Distributor BOM - Walls above Basement.pdf",
-     "pages": 11,
+     "title": "Distributor BOM - Nudura ICF kit with your rate card (Excel)",
+     "file": "downloads/ES26-088 Distributor BOM - Walls above Basement (LG, GF, FF).xlsx",
+     "pages": 4,
      "thumb": "thumbs/ES26-088-QS-01.png",
      "bytes": 176027,
      "number": "ES26-088-QS-01",
-     "view": "stage-5",
-     "view_opts": {}
+     "kind": "xlsx",
+     "preview": "xls/bom.html",
+     "tabs": 4,
+     "subtitle": "Excel workbook - live preview, enter your sale rates"
     }
    ],
    "downloads": [
