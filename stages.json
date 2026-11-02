@@ -1,0 +1,71 @@
+{
+ "job": "House - walls above the basement, Badgers Hollow, Alderley Edge",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft, existing basement and transfer deck",
+   "desc": "The 300 RC raft (SSL-2), the basement walls Ethos have built from the raft to the transfer deck (NOT in this supply - extent to be confirmed) and the SSL-1 composite transfer deck tied into the walls.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 11504
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Lower ground walls",
+   "desc": "Lower-ground walls on the deck, 8 courses with the top course cut to 125: the 457 core perimeter in unassembled XR35 panels (corners = two straights lapping, swapping every course), the 8in Std internal walls, the front glazing and doors.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2977316
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ground floor",
+   "desc": "The 400 RC GF slab (SSL0) and the ground-floor 6in XR35 walls (7 courses), windows and the timber stud partitions (heads to the FF deck, stopped under the indicative steels).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1865916
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First floor",
+   "desc": "The FF composite deck with the indicative UB steels (engineer), the first-floor 6in XR35 walls (6 courses) to the wall plate, windows and partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1753792
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Indicative cut roof (no roof plan issued - RFI): hipped crown roof at 32.5 degrees, ridges ~2.4 m above the plate with a flat between them, C24 rafters @600 (truss / engineer design to follow).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 112944
+    }
+   ]
+  }
+ ]
+}

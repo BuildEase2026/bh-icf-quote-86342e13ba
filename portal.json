@@ -1,0 +1,287 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Ethos Property Developments (Nudura distributor) - Mark Whalley",
+  "job": "House - walls above the basement, Badgers Hollow, Alderley Edge",
+  "number_prefix": "ES26-088",
+  "status": "QUOTATION",
+  "revision": "",
+  "model_title": "ES26-088 House - walls above the basement, Badgers Hollow, Alderley Edge - Quotation"
+ },
+ "default_view": "stage-5",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Raft, existing basement and transfer deck",
+   "desc": "The 300 RC raft (SSL-2), the basement walls Ethos have built from the raft to the transfer deck (NOT in this supply - extent to be confirmed) and the SSL-1 composite transfer deck tied into the walls.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Lower ground walls",
+   "desc": "Lower-ground walls on the deck, 8 courses with the top course cut to 125: the 457 core perimeter in unassembled XR35 panels (corners = two straights lapping, swapping every course), the 8in Std internal walls, the front glazing and doors.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "Ground floor",
+   "desc": "The 400 RC GF slab (SSL0) and the ground-floor 6in XR35 walls (7 courses), windows and the timber stud partitions (heads to the FF deck, stopped under the indicative steels).",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "First floor",
+   "desc": "The FF composite deck with the indicative UB steels (engineer), the first-floor 6in XR35 walls (6 courses) to the wall plate, windows and partitions.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Indicative cut roof (no roof plan issued - RFI): hipped crown roof at 32.5 degrees, ridges ~2.4 m above the plate with a flat between them, C24 rafters @600 (truss / engineer design to follow).",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 5,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 5,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 5,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 5,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Raft, existing basement and transfer deck",
+   "desc": "The 300 RC raft (SSL-2), the basement walls Ethos have built from the raft to the transfer deck (NOT in this supply - extent to be confirmed) and the SSL-1 composite transfer deck tied into the walls.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 11504
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Lower ground walls",
+   "desc": "Lower-ground walls on the deck, 8 courses with the top course cut to 125: the 457 core perimeter in unassembled XR35 panels (corners = two straights lapping, swapping every course), the 8in Std internal walls, the front glazing and doors.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 2977316
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Ground floor",
+   "desc": "The 400 RC GF slab (SSL0) and the ground-floor 6in XR35 walls (7 courses), windows and the timber stud partitions (heads to the FF deck, stopped under the indicative steels).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1865916
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First floor",
+   "desc": "The FF composite deck with the indicative UB steels (engineer), the first-floor 6in XR35 walls (6 courses) to the wall plate, windows and partitions.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 1753792
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Roof structure",
+   "desc": "Indicative cut roof (no roof plan issued - RFI): hipped crown roof at 32.5 degrees, ridges ~2.4 m above the plate with a flat between them, C24 rafters @600 (truss / engineer design to follow).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 112944
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Distributor Bill of Materials for the walls above the basement (every form and accessory by level with a blank rate card for your own sale prices - no material prices from us), pre-cut by BuildEase.",
+   "zip": {
+    "file": "downloads/ES26-088 Quotation.zip",
+    "bytes": 75108,
+    "count": 1
+   },
+   "docs": [
+    {
+     "id": "ES26-088-QS-01",
+     "title": "Distributor BOM - Walls above Basement",
+     "file": "docs/quote/ES26-088-QS-01 Distributor BOM - Walls above Basement.pdf",
+     "pages": 11,
+     "thumb": "thumbs/ES26-088-QS-01.png",
+     "bytes": 176027,
+     "number": "ES26-088-QS-01",
+     "view": "stage-5",
+     "view_opts": {}
+    }
+   ],
+   "downloads": [
+    {
+     "file": "downloads/ES26-088 Distributor BOM - Walls above Basement (LG, GF, FF).xlsx",
+     "title": "Distributor BOM - walls above the basement (Excel - enter your rates in the yellow cells) (0.0 MB)"
+    }
+   ]
+  },
+  {
+   "id": "icf",
+   "title": "ICF drawings",
+   "note": "ICF general arrangements (LG, GF, FF), elevations and a section.",
+   "zip": {
+    "file": "downloads/ES26-088 ICF drawings.zip",
+    "bytes": 657684,
+    "count": 6
+   },
+   "docs": [
+    {
+     "id": "ES26-088-GA-01",
+     "title": "Lower Ground ICF General Arrangement",
+     "file": "docs/icf/ES26-088-GA-01 Lower Ground ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-GA-01.png",
+     "bytes": 63761,
+     "number": "ES26-088-GA-01",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-088-GA-02",
+     "title": "Ground Floor ICF General Arrangement",
+     "file": "docs/icf/ES26-088-GA-02 Ground Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-GA-02.png",
+     "bytes": 86337,
+     "number": "ES26-088-GA-02",
+     "view": "stage-3",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-088-GA-03",
+     "title": "First Floor ICF General Arrangement",
+     "file": "docs/icf/ES26-088-GA-03 First Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-GA-03.png",
+     "bytes": 98631,
+     "number": "ES26-088-GA-03",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-088-EL-01",
+     "title": "Front and Rear Elevations",
+     "file": "docs/icf/ES26-088-EL-01 Front and Rear Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-EL-01.png",
+     "bytes": 239129,
+     "number": "ES26-088-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-088-EL-02",
+     "title": "Side Elevations",
+     "file": "docs/icf/ES26-088-EL-02 Side Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-EL-02.png",
+     "bytes": 248147,
+     "number": "ES26-088-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-088-SE-01",
+     "title": "Section A-A",
+     "file": "docs/icf/ES26-088-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-088-SE-01.png",
+     "bytes": 82945,
+     "number": "ES26-088-SE-01",
+     "view": "stage-5",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [],
+ "download_all": {
+  "file": "downloads/ES26-088 House - walls above the basement, Badgers Hollow, Alderley Edge - Quotation.zip",
+  "bytes": 745368,
+  "count": 8,
+  "title": "Download everything"
+ }
+}
