@@ -173,7 +173,7 @@
    "note": "The Distributor Bill of Materials for the walls above the basement (every form and accessory by level with a blank rate card for your own sale prices - no material prices from us), pre-cut by BuildEase.",
    "zip": {
     "file": "downloads/ES26-088 Quotation.zip",
-    "bytes": 75108,
+    "bytes": 12552,
     "count": 1
    },
    "docs": [
@@ -181,9 +181,8 @@
      "id": "ES26-088-QS-01",
      "title": "Distributor BOM - Nudura ICF kit with your rate card (Excel)",
      "file": "downloads/ES26-088 Distributor BOM - Walls above Basement (LG, GF, FF).xlsx",
-     "pages": 4,
      "thumb": "thumbs/ES26-088-QS-01.png",
-     "bytes": 176027,
+     "bytes": 13153,
      "number": "ES26-088-QS-01",
      "kind": "xlsx",
      "preview": "xls/bom.html",
@@ -282,8 +281,8 @@
  "toggles": [],
  "download_all": {
   "file": "downloads/ES26-088 House - walls above the basement, Badgers Hollow, Alderley Edge - Quotation.zip",
-  "bytes": 745368,
-  "count": 8,
+  "bytes": 670274,
+  "count": 7,
   "title": "Download everything"
  }
 }
